@@ -31,4 +31,5 @@
 3. [네이버](http://naver.com, "네이버")
 ---
 
-<img sec="" width="100" height="50")
+![kakaopay](https://github.com/user-attachments/assets/255c4894-c09a-446d-93b8-ee71428e3ef3)
+<img sec="https://github.com/user-attachments/assets/255c4894-c09a-446d-93b8-ee71428e3ef3" width="100" height="50")
